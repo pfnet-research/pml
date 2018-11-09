@@ -10,7 +10,7 @@ This software is developed as part of [PFN summer internship 2018](https://www.p
 ## Installation
 
 1. install PRISM (https://www.prismmodelchecker.org/)
-2. download this source code by `git clone ...` or somehow, and then `$ make` in the directory
+2. download this source code by `git clone https://github.com/pfnet-research/pml.git` or somehow, and then `$ make` in the directory
 3. `./build/pml`, the interpreter binary file, will be generated
 
 ## Dependencies
