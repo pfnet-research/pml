@@ -106,7 +106,7 @@ Following logical terms are available:
 
 MIT License.  
 
-We provide no warranty or support for this implementation. Each model performance is not guaranteed, and may not achieve the score reported in each paper. Use it at your own risk.
+We provide no warranty or support for this implementation. Use it at your own risk.
 
 Please see the [LICENSE](./LICENSE) file for details.
 
